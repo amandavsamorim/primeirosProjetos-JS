@@ -42,7 +42,7 @@
  <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
  </div>
  
-<p>• Minha primeira página utilizando JavaScript. O contador foi desenvolvido nas aulas do curso de JavaScript através do bootcamp Decola Tech 3a edição na plataforma Digital Innovation One junto com Avanade. 
+<p>• Minha primeira página utilizando JavaScript. Este contador foi desenvolvido nas aulas do curso de JavaScript através do bootcamp Decola Tech 3a edição na plataforma Digital Innovation One junto com Avanade. 
 <br>
 • Criado em 02/06/2022
 <br>
